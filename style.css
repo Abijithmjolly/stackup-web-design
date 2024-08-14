@@ -35,7 +35,7 @@ header {
 }
 
 .navbar {
-    max-width: 1322px;
+    max-width: 79.86111111111111%;
 
     display: flex;
     align-items: center;
@@ -116,24 +116,26 @@ button:hover {
 .buttonone {
     background-color: transparent;
     color: #96BB7C;
-
+    border: none;
 }
 
+
 .buttontwo {
-    background-color: #96BB7C;
+    background-color: transparent;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 10px;
-    color: #ffff;
-
+    color: #96BB7C;
+    border: none;
 }
+
 
 .buttontwo span {
     font-size: 15px;
-    color: #ffff;
+    color: #96BB7C;
+   
 }
-
 .container-page1 {
     display: flex;
     max-width: 100%;
