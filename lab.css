@@ -1,0 +1,18 @@
+.container{
+    max-width: 100%;
+background-color: brown;    height: 100%;
+
+}
+.Symbol{display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    position: absolute;
+    top: 0;
+    right: 0;
+}.Symbol h6{
+    padding: 5px 10px;
+}
